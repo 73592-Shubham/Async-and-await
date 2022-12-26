@@ -1,0 +1,20 @@
+async function{
+
+try {
+
+
+  await promise ()  
+
+
+}.cathch(){
+
+
+    in case of rejection 
+
+
+}
+
+}
+
+
+try and catch is used to catch error in case of any rejection in our promise inside the async function
